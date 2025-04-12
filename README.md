@@ -3,7 +3,7 @@
 ## Setup
 ### Requirements
 
-The following environment has been tested and recommended, you can use either pypi or conda to create it:
+The following environment has been tested and recommended, you can use either pip or conda to create it:
 ```txt
 python==3.10
 pytorch==2.1.2
